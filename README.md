@@ -19,6 +19,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh-dev-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Profile Views](https://komarev.com/ghpvc/?username=harsh-dev-ux&color=blue&style=flat-square)](https://github.com/harsh-dev-ux)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
