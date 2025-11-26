@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF1dTM0cDVjZmlwMnY1MnoybWo4c3c3ZmFxdm43Y2M0NmVzNW5kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%" />
 
-
-# harsh-dev-ux
-# 💫 About Me:
-⚡ Just a student obsessed with code and growth
-
+  <h1 align="center">Harsh </h1>
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Systems+Engineer+in+Training;Obsessed+with+Low+Latency;Building+Compilers+%26+HFT+Algos;Error+404:+Social+Life+Not+Found" alt="Typing SVG" />
+    </a>
+  </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harsh_hr7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apela_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-dev-x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshhajare77@gmail.com) 
