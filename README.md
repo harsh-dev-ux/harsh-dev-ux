@@ -33,3 +33,35 @@ struct Engineer {
     char* philosophy = "Optimization is not a choice, it's a lifestyle.";
     bool loves_coffee = true;
 };
+
+⚡ The Arsenal (Tech Stack)
+<!-- Added CMake and Bash as they are essential for Systems Engineers -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,bash,cmake,git,vscode,github&theme=tokyonight" />
+</div>
+📊 System Diagnostics
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
+</td>
+</tr>
+</table>
+<!-- STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-dev-ux&theme=tokyonight&hide_border=true" />
+</div>
+🐍 Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-dev-ux&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" />
+</div>
+<br />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=harsh-dev-ux&style=flat-square&color=blueviolet" alt="Profile Views" />
+<br />
+<br />
+<i>"I don't write code to run. I write code to fly."</i>
+</div>
