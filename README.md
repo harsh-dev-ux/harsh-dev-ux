@@ -46,9 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-dev-ux&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
   
-  <!-- STREAK -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-dev-ux&theme=tokyonight&hide_border=true" />
-</div>
+  
 
 ### 🐍 Contribution Graph
 <div align="center">
