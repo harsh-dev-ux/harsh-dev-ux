@@ -3,6 +3,7 @@
 
   <h1 align="center">Harsh Hajare</h1>
   
+  <!-- Changed color to #7aa2f7 to match your TokyoNight Stats theme below -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Systems+Engineer+in+Training;Obsessed+with+Low+Latency;Building+Compilers+%26+HFT+Algos;std%3A%3Acout+<<+%22Hello+World%22%3B" alt="Typing SVG" />
@@ -32,7 +33,9 @@ struct Engineer {
     char* philosophy = "Optimization is not a choice, it's a lifestyle.";
     bool loves_coffee = true;
 };
+
 ⚡ The Arsenal (Tech Stack)
+<!-- Added CMake and Bash as they are essential for Systems Engineers -->
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,bash,cmake,git,vscode,github&theme=tokyonight" />
 </div>
@@ -60,4 +63,5 @@ struct Engineer {
 <img src="https://komarev.com/ghpvc/?username=harsh-dev-ux&style=flat-square&color=blueviolet" alt="Profile Views" />
 <br />
 <br />
-<i>"I do
+<i>"I don't write code to run. I write code to fly."</i>
+</div>
