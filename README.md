@@ -1,32 +1,65 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF1dTM0cDVjZmlwMnY1MnoybWo4c3c3ZmFxdm43Y2M0NmVzNW5kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%" />
 
+  <h1 align="center">Harsh Hajare</h1>
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Systems+Engineer+in+Training;Obsessed+with+Low+Latency;Building+Compilers+%26+HFT+Algos;Error+404:+Social+Life+Not+Found" alt="Typing SVG" />
+    </a>
+  </p>
 
-# harsh-dev-ux
-# 💫 About Me:
-⚡ Just a student obsessed with code and growth
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harsh_hr7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apela_hr7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-dev-x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshhajare77@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harsh-dev-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harsh-dev-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![Profile Views](https://komarev.com/ghpvc/?username=harsh-dev-ux&color=blue&style=flat-square)](https://github.com/harsh-dev-ux)
-
-
-
-> ✍️ _"Code, commit, repeat — build until the system bends."_  
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <!-- SOCIALS -->
+  <p align="center">
+    <a href="https://discord.gg/harsh_hr7">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/harsh-dev-x">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:harshhajare77@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harsh-dev-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">👾💻 <strong>error 404: social life not found</strong></p>
+### ⚡ The Arsenal (Tech Stack)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,vscode,github&theme=dark" />
+</div>
+
+---
+
+### 📊 System Diagnostics (Stats)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- STREAK -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-dev-ux&theme=tokyonight&hide_border=true" />
+</div>
+
+### 🐍 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-dev-ux&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh-dev-ux&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+---
+<div align="center">
+  <i>"I don't write code to run. I write code to fly."</i>
+</div>
