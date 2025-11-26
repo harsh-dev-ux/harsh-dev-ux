@@ -5,7 +5,7 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Obsessed+with+Low+Latency;Building+Compilers+%26+HFT+Algos; Error+404:+Social+Life+Not+Found" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Obsessed+with+Low+Latency;Building+Compilers+%26+HFT+Algos;error+404:+Social+Life+Not+Found" alt="Typing SVG" />
     </a>
   </p>
 
