@@ -22,10 +22,16 @@
 
 
 
-> ✍️ _"Code, commit, repeat — build until the system bends."_  
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🐍 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-dev-ux&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh-dev-ux&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harsh-dev-ux&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">👾💻 <strong>error 404: social life not found</strong></p>
+<div align="center">
+  <i>"I don't write code to run. I write code to fly."</i>
+</div>
