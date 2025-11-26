@@ -35,16 +35,16 @@
 ### 📊 System Diagnostics (Stats)
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
-      </td>
-    </tr>
-  </table>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  
+  <!-- Streak Stats -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-dev-ux&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
   
   <!-- STREAK -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-dev-ux&theme=tokyonight&hide_border=true" />
