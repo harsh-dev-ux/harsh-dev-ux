@@ -17,8 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=harsh-dev-ux&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harsh-dev-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=harsh-dev-ux&color=blue&style=flat-square)](https://github.com/harsh-dev-ux)
 
 
