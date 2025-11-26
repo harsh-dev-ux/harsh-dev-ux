@@ -33,7 +33,7 @@ struct Engineer {
     char* philosophy = "Optimization is not a choice, it's a lifestyle.";
     bool loves_coffee = true;
 };
-
+```
 ⚡ The Arsenal (Tech Stack)
 <!-- Added CMake and Bash as they are essential for Systems Engineers -->
 <div align="center">
