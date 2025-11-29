@@ -13,7 +13,6 @@
     </a>
   </p>
 
-  <!-- Changed from ## to <h2> to fix the "showing code" error -->
   <h2>🌐 Socials:</h2>
   <a href="https://discord.gg/harsh_hr7">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
@@ -29,8 +28,8 @@
   </a> 
 </div>
 
+<h1 align="center">💻 Tech Stack:</h1>
 <div align="center">
-  <h2>💻 Tech Stack:</h2>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -38,14 +37,12 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
+<h1 align="center">📊 GitHub Stats:</h1>
 <div align="center">
-  <h2>📊 GitHub Stats:</h2>
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Stats Graph" />
- 
-  ### 📊 Language Distribution
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-x&layout=compact&theme=dark)
-
+  <!-- I removed 'count_private=true' because it breaks the images. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=false" height="180" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=false&layout=compact" height="180" alt="Languages Graph" />
+</div>
 
 <div align="center">
   <br/>
@@ -57,7 +54,7 @@
   <img src="https://komarev.com/ghpvc/?username=harsh-dev-ux&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
-<hr />
+---
 <div align="center">
   <i>"I don't write code to run. I write code to fly."</i>
 </div>
