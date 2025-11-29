@@ -40,9 +40,9 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 <div align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-x&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-x&layout=compact&theme=dark)
 
 
 <div align="center">
