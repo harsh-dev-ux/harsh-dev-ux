@@ -75,7 +75,7 @@
   <!-- GitHub Stats -->
   <h3>GitHub Activity</h3>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-dev-ux&bg_color=ffffff&color=000000&line=666666&point=000000&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-dev-ux&bg_color=1a1b27&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
   <br/>
 
@@ -83,7 +83,7 @@
 
   <br/><br/>
 
-  <!-- Profile Views -->
+   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=harsh-dev-ux&style=flat&color=lightgrey&label=Views" alt="Profile Views" />
 
   <br/><br/>
