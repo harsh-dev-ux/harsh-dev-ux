@@ -61,10 +61,11 @@
 
   <br/>
 
-  <!-- Most Used Languages -->
+  
+   <!-- Most Used Languages -->
   <h3>Most Used Languages</h3>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh-dev-ux&theme=github" alt="Most Commit Language" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh-dev-ux&theme=monokai" alt="Most Commit Language" width="400"/>
 
   <br/><br/>
 
