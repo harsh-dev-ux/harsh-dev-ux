@@ -42,9 +42,10 @@
   <h2>📊 GitHub Stats:</h2>
   <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Stats Graph" />
-  <!-- Top Langs Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Languages Graph" />
-</div>
+ 
+  ### 📊 Language Distribution
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-x&layout=compact&theme=dark)
+
 
 <div align="center">
   <br/>
