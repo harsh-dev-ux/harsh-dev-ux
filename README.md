@@ -92,7 +92,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <!-- Quote -->
-  <p><i>"If you can't speak well, write well. If you can't write well, code well. If you can't code well, you're in the wrong industry." - Anonymous HFT developer"</i></p>
+  <p><i>"If you can't speak well, write well. If you can't write well, code well. If you can't code well, you're in the wrong industry." 
+    - Anonymous HFT developer"</i></p>
 
   <br/>
 
