@@ -9,7 +9,8 @@ CS undergrad · IITM BS Data Science · building toward HFT/quant engineering
 ## what i'm working on
 - grinding problems on Codeforces, AtCoder and CodeChef.
 -  learning DSA from Striver( YEAH I PURCHASED THE COURSE) 
-- learning low-latency concepts: order books, market microstructure, execution systems  ( actually havent started this yet (:       ) 
+- learning low-latency concepts: order books, market microstructure, execution systems  ( actually havent started this yet (:       )
+- i know c,c++,python but mainly i use c++ for cp/dsa nd aiming to mastering it & i dont do dev till now soo far (:: 
 
 ## target path
 Unstop / ICPC contests 
