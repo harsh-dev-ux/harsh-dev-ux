@@ -9,14 +9,16 @@ CS undergrad · IITM BS Data Science · building toward HFT/quant engineering
 ## what i'm working on
 - grinding problems on Codeforces, AtCoder and CodeChef.
 -  learning DSA from Striver( YEAH I PURCHASED THE COURSE) 
-- learning low-latency concepts: order books, market microstructure, execution systems [actually havent started this yet (((( ]
+- learning low-latency concepts: order books, market microstructure, execution systems  ( actually havent started this yet (:   ) 
 
 ## target path
 Unstop / ICPC contests 
+
 write code → get better at writing code → somehow end up at hft (  → pretend I always had a plan
 
 ## interests
-`order book mechanics` `low-latency C++` `algorithmic trading` `market microstructure` `data structures`
+`order book mechanics` `low-latency C++` `algorithmic trading` `market microstructure` `data structures` `🌾 farming` `⚽ football`
+
 
 ---
 
