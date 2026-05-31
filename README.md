@@ -1,5 +1,7 @@
 # harsh-dev-ux
 
+![Profile Views](https://komarev.com/ghpvc/?username=harsh-dev-ux&color=blueviolet&style=flat-square&label=Profile+Views)
+
 CS undergrad · IITM BS Data Science · building toward HFT/quant engineering
 
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square) ![Python](https://img.shields.io/badge/Python-green?style=flat-square) ![HFT](https://img.shields.io/badge/HFT%20systems-purple?style=flat-square) ![Quant](https://img.shields.io/badge/Quant%20Finance-orange?style=flat-square)
