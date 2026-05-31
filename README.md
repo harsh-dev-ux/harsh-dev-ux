@@ -11,6 +11,7 @@ CS undergrad · IITM BS Data Science · building toward HFT/quant engineering
 -  learning DSA from Striver( YEAH I PURCHASED THE COURSE) 
 - learning low-latency concepts: order books, market microstructure, execution systems  ( actually havent started this yet (:       )
 - i know C, C++, and Python, but I mainly use C++ for CP/DSA and I'm aiming to master it & I haven't done any development so far:
+- i also write blogs on cpp for fun :)
 
 ## target path
 Unstop / ICPC contests 
